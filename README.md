@@ -57,9 +57,7 @@ Museums still rely heavily on static displays and short labels. Visitors increas
 ### Gamification
 | Virtual Atelier | Interactive quiz game |
 |---|---|
-| ![Virtual Atelier]([images/virtual-atelier-painting.jpg](https://github.com/vasiapitikaki/FRAMES-VanoArt/blob/main/virtual-atelier-painting.jpg)) | ![Interactive quiz game](images/quiz-game.jpg) |
-
-![Visitors creating artwork together in the Virtual Atelier](images/virtual-atelier.jpg)
+| ![Virtual Atelier]([images/virtual-atelier.jpg](https://github.com/vasiapitikaki/FRAMES-VanoArt/blob/main/virtual-atelier-painting.jpg)) | ![Interactive quiz game](images/quiz-game.jpg) |
 
 ### Augmented reality on the mobile app
 ![AR overlay on a painting through the mobile app](images/ar-overlay-mobile.jpg)
@@ -83,15 +81,25 @@ A central server and database push content to any number of clients (projectors,
 
 ## Videos
 
-<!-- To add a video: edit this file on GitHub and drag & drop an .mp4 file (up to 10 MB on the free plan) right here.
-     GitHub uploads it and inserts a link that plays inside the README.
-     For longer videos, upload them to YouTube (they can be "Unlisted") and use the thumbnail link below. -->
+### Gallery Exploration
+Exploring the exhibition across the three projected walls of the XR CAVE.
 
-[Add your videos here: see the instructions in the comment above]
+▶️ [Watch the video](video/Gallery%20Exploration.mp4)
 
-<!-- Example YouTube thumbnail link:
-[![FRAMES demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
--->
+### Filter Selection
+Filtering the exhibition by artist and artistic period to create a tailored exhibition.
+
+▶️ [Watch the video](video/Filter%20Selection.mp4)
+
+### Personalized Exhibition (Van Gogh)
+A themed exhibition dedicated to Vincent van Gogh, with the room adapting to the artist's style.
+
+▶️ [Watch the video](video/Personalized%20Exhibition%20%28Van%20Gogh%29.mp4)
+
+### Virtual Atelier
+Visitors creating and customizing artwork together on the walls.
+
+▶️ [Watch the video](video/Virtual%20Atelier.mp4)
 
 ---
 
