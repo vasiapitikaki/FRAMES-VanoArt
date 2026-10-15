@@ -11,7 +11,7 @@ I worked on FRAMES as part of my BSc thesis at the Human-Computer Interaction La
 ## My role
 
 - **Co-designed and developed the FRAMES platform:** UI/UX design from wireframes to front-end implementation, interactive and themed exhibition views, and gamified experiences.
-- **Single-handedly built the companion Android application** (Unity, C#): painting recognition through the camera, AR overlays on artworks and an in-app e-shop with product availability. The app accompanies an interactive exhibition that will soon be on display in the Municipality of Malevizi, Crete.
+- **Single-handedly built the companion Android application** (Unity, C#): painting recognition through the camera, AR overlays on artworks and an in-app e-shop with product availability. The app accompanies an interactive exhibition that will soon be on display.
 - **Designed for accessibility:** accessible navigation with a physical controller and auditory information.
 - **Evaluation:** took part in a cognitive walkthrough with 5 UX experts and turned the findings into design improvements.
 
