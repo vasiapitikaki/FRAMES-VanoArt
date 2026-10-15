@@ -57,7 +57,7 @@ Museums still rely heavily on static displays and short labels. Visitors increas
 ### Gamification
 | Virtual Atelier | Interactive quiz game |
 |---|---|
-| ![Virtual Atelier]([images/virtual-atelier.jpg](https://github.com/vasiapitikaki/FRAMES-VanoArt/blob/main/virtual-atelier-painting.jpg)) | ![Interactive quiz game](images/quiz-game.jpg) |
+| ![Virtual Atelier](images/virtual-atelier.jpg) | ![Virtual Atelier Painting](images/virtual-atelier-painting.jpg) |![Interactive quiz game](images/quiz-game.jpg) |
 
 ### Augmented reality on the mobile app
 ![AR overlay on a painting through the mobile app](images/ar-overlay-mobile.jpg)
