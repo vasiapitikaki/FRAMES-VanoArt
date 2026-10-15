@@ -55,7 +55,7 @@ Museums still rely heavily on static displays and short labels. Visitors increas
 | ![Interactive cards](images/interactive-cards.jpg) | ![Personalized exhibition](images/personalized-exhibition.jpg) |
 
 ### Gamification
-| Virtual Atelier | Interactive quiz game |
+| Virtual Atelier | Virtual Atelier Painting | Interactive quiz game |
 |---|---|
 | ![Virtual Atelier](images/virtual-atelier.jpg) | ![Virtual Atelier Painting](images/virtual-atelier-painting.jpg) |![Interactive quiz game](images/quiz-game.jpg) |
 
