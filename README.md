@@ -1,7 +1,5 @@
 # FRAMES: Immersive & Multimodal Extended Reality Exhibitions
 
-![Vincent van Gogh themed exhibition in the XR CAVE](images/vangogh-themed-exhibition.jpg)
-
 **FRAMES** is a platform for building interactive, immersive exhibitions that combine multi-wall projections, multimodal interaction, gamification and augmented reality. **VanoArt**, an art exhibition of paintings and sculptures, is its first case study. It runs in an XR CAVE and comes with a companion Android application for visitors.
 
 I worked on FRAMES as part of my BSc thesis at the Human-Computer Interaction Laboratory of ICS-FORTH. The work was published at **Digital Heritage International Congress 2025** (Siena, Italy).
@@ -59,7 +57,7 @@ Museums still rely heavily on static displays and short labels. Visitors increas
 ### Gamification
 | Virtual Atelier | Interactive quiz game |
 |---|---|
-| ![Virtual Atelier](images/virtual-atelier-painting.jpg) | ![Interactive quiz game](images/quiz-game.jpg) |
+| ![Virtual Atelier]([images/virtual-atelier-painting.jpg](https://github.com/vasiapitikaki/FRAMES-VanoArt/blob/main/virtual-atelier-painting.jpg)) | ![Interactive quiz game](images/quiz-game.jpg) |
 
 ![Visitors creating artwork together in the Virtual Atelier](images/virtual-atelier.jpg)
 
